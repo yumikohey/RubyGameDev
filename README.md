@@ -1,2 +1,2 @@
-# Rubyclerks Payment Module
+# Ruby Game Dev
 Rails Girl Project
